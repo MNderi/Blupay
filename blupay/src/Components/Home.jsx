@@ -50,8 +50,8 @@ export function Home() {
             </h2>
 
             <p className="text-slate-500 mt-8 max-w-xl mx-auto lg:mx-0 text-lg md:text-xl leading-relaxed">
-              No queues. No delays. Send money across African countries in
-              seconds — as easily as sending a message.
+              No queues. No delays. Send money across African countries with ease
+             — as easily as sending a message.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-3 mt-12 max-w-lg mx-auto lg:mx-0">
@@ -84,7 +84,7 @@ export function Home() {
 
             </div>
               <p className="text-xs font-medium text-slate-500 mt-5 text-black/50">
-                  Join <span className="text-black">33+ Africans</span> already connected.
+                  Join <span className="text-black">160+ Africans</span> already connected.
               </p>
           </div>
           <div className="relative flex justify-center lg:justify-end">
