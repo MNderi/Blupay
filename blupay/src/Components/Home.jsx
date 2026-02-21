@@ -178,7 +178,7 @@ export function Home() {
 
           <div className="order-3">
             <a 
-              href="mailto:support@blu-pay.co" 
+              href="mailto:info@blu-pay.co" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-[#2D7CF6] transition-colors uppercase tracking-widest text-[10px] sm:text-xs"
